@@ -214,8 +214,8 @@ Sampling was applied only at the model training step due to Google Colab hardwar
 
 ## Individual Contributions
 
-- **Ashleigh McNamara:** [fill in your contributions here]
-- **Purva Pandit:** [fill in your contributions here]
+- **Ashleigh McNamara:** Data engineering pipeline (Notebook 1), Model development and training (Notebook 3), presentation slide design and content, final report writing  
+- **Purva Pandit:** Exploratory data analysis (Notebook 2),, evaluation and business impact analysis (Notebook 4), final report writing
 
 ---
 
